@@ -3,8 +3,8 @@ This is my solution to the Social links profile challenge on Frontend Mentor.
 
 Overview
 Links
-
-Live Site URL: [Add your live site link here]
+![A screenshot of the completed social links profile card](./preview.jpg)
+Live Site URL: [live link](https://gbollybambam.github.io/social-links-profile/)]
 
 Built with
 Semantic HTML5 markup
@@ -16,5 +16,5 @@ Flexbox
 CSS Grid
 
 Author
-Frontend Mentor - [@gbollybambam](https://www.frontendmentor.io/profile/your-username)
+Frontend Mentor - [@gbollybambam](https://www.frontendmentor.io/profile/gbollybambam)
 
